@@ -3,9 +3,9 @@ project:
   
 website: 
   page-navigation: true
-  title: "Making sharable documents with Quarto" 
-  site-url: "https://openscapes.github.io/quarto-website-tutorial" 
-  repo-url: https://github.com/openscapes/quarto-website-tutorial 
+  title: "What is the differential???!!" 
+  site-url: "https://yog1tron.github.io/ddxDIARY" 
+  repo-url: "https://github.com/YOG1TRON/ddxDIARY"
   repo-actions: [edit, issue]
   
   page-footer:
