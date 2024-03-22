@@ -9,7 +9,7 @@ website:
   repo-actions: [edit, issue]
   
   page-footer:
-    right: "This page is built with ❤️ and [the ddxSQUAD](https://www.playbook.com/s/master-le-inc/ddxsquad)."
+    right: "This page is built with ❤️ by [the ddxSQUAD](https://www.playbook.com/s/master-le-inc/ddxsquad)."
     
   sidebar:
     logo: "images/logo.png"
