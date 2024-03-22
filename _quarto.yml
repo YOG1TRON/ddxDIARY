@@ -9,11 +9,10 @@ website:
   repo-actions: [edit, issue]
   
   page-footer:
-    right: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
-    left: "&copy; CC-By Openscapes, 2024"
+    right: "This page is built with ❤️ and [the ddxSQUAD](https://www.playbook.com/s/master-le-inc/ddxsquad)."
     
   sidebar:
-    logo: "images/openscapes_hex.png"
+    logo: "images/logo.png"
     pinned: true
     align: center
     tools: 
